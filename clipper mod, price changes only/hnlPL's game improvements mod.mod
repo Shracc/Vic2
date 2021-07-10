@@ -1,2 +1,2 @@
-name = "hnlPL's game improvements mod"
-path = "mod/hnlplgim"
+name = "hnlPL's Clippers mod"
+path = "mod/hnlplClippers"
